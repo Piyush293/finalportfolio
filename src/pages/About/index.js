@@ -87,7 +87,7 @@ const About = () => {
                 piyushnigam293@gmail.com
               </h2>
               <a
-                href="#"
+                href="https://drive.google.com/file/d/1bUEqDcc6hSh2D6Mz825AIM-hSCoBLhYJ/view?usp=sharing"
                 target="blank"
               >
                 <div className="flex justify-center md:justify-start translate-y-[60%] sm:translate-y-[-0%]">
